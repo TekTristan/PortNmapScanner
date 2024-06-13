@@ -12,7 +12,9 @@ pip install python-nmap
 ```
 
 ## Usage
-1.) Run script with target ip as the first argument
+1.) Save script to file, for example port.py
+
+2.) Run the script with the target ip as the first argument
 ```
 python port.py <target ip address>
 ```
