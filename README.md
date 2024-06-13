@@ -10,3 +10,9 @@ This Python script uses the nmap library to perform a port scan and OS detection
 ```
 pip install python-nmap
 ```
+
+## Usage
+1.) Run script with target ip as the first argument
+```
+python port.py <target ip address>
+```
